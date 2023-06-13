@@ -19,6 +19,6 @@ public class Doctor extends Persona{
     }
 
     public void examinar(){
-        System.out.println("Este es el metodo examinarr");
+        System.out.println("Este es el metodo examinar");
     }
 }
